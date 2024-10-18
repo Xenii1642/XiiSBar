@@ -28,4 +28,23 @@ After that, you'll need to screew the board in place. Use the M1.7x4 ones.
 
 <img src="images/Assembly6.png" width= "321.5" /><img src="images/Assembly7.png" width= "390" />
 
+<img src="images/Assembly8.png" width= "711.5" />
+
 Place this piece as shown and then fold it. Do the same thing for the other black piece.
+
+<img src="images/Assembly9.png" width= "780" />
+<img src="images/Assembly10.png" width= "780" />
+
+Now, take this piece and place it like this. You'll be able to close the case.
+
+<img src="images/Assembly11.png" width= "780" />
+Take two M1.7x6 screws and screw the case.
+
+<img src="images/Assembly12.png" width= "780" />
+<img src="images/Assembly13.png" width= "780" />
+<img src="images/Assembly14.png" width= "780" />
+Finally, take the trap and the clip. Put both together. You might need some super glue.
+
+<img src="images/Assembly15.png" width= "780" />
+Finally, put the trap on the case and close it !
+That's it !
