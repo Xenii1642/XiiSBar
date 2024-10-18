@@ -15,6 +15,13 @@ All the STL for the 3D printed parts are in the STL folder.
 
 The XiiSBar PCB files are available in the PCB folder. All the components are listed in the "BOM.pdf" file 😉
 
+<img src="images/Assembly1.png" width= "390" /><img src="images/Assembly2.png" width= "368" />
+<img src="images/Assembly3.png" width= "390" /><img src="images/Assembly4.png" width= "390" />
 
+First, put switch slider in the switch hole of the case. Then, rotate the board in place.
 
+⚠ This last part could be a bit tricky to do considering the small tolerances ⚠
 
+<img src="images/Assembly5.png" width= "780" />
+
+After that, you'll need to screew the board. I'm using M1.7x4 for plastic. 
