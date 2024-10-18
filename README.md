@@ -4,6 +4,11 @@ The XiiSBar is a small portable Sensor Bar. The XiiSBar is usefull to fully use 
 
 Its small form factor means that you can fix it under a Xii-Boy Pocket stand !
 
-<img src="images/thundervolt_pcb.png" />
+<img src="images/XiiSBar.png" width="780" />
+
+<img src="images/XiiSBar1.png" />
+<img src="images/XiiSBar2.png" />
+
+
 
 ## Assembly
