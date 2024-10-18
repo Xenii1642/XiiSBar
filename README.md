@@ -6,9 +6,7 @@ Its small form factor means that you can fix it under a Xii-Boy Pocket stand !
 
 <img src="images/XiiSBar.png" width="780" />
 
-<img src="images/XiiSBar1.png" />
-<img src="images/XiiSBar2.png" />
-
-
+<img src="images/XiiSBar1.png" width="390"/> <img src="images/XiiSBar2.png" width="384"/>
 
 ## Assembly
+<img src="images/parts.png" />
