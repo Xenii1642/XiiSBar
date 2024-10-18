@@ -24,4 +24,5 @@ First, put switch slider in the switch hole of the case. Then, rotate the board 
 
 <img src="images/Assembly5.png" width= "780" />
 
-After that, you'll need to screew the board. I'm using M1.7x4 for plastic. 
+After that, you'll need to screew the board in place. Use the M1.7x4 ones.
+
