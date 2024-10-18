@@ -26,3 +26,6 @@ First, put switch slider in the switch hole of the case. Then, rotate the board 
 
 After that, you'll need to screew the board in place. Use the M1.7x4 ones.
 
+<img src="images/Assembly6.png" width= "321.5" /><img src="images/Assembly7.png" width= "390" />
+
+Place this piece as shown and then fold it. Do the same thing for the other black piece.
