@@ -10,7 +10,7 @@ Its small form factor means that you can fix it under a Xii-Boy Pocket stand !
 
 ## Assembly
 <img src="images/parts.png" width= "780" />
-This is all the pieces you need to build a XiiSBar. 
+This is all the parts you need to build a XiiSBar. 
 All the STL for the 3D printed parts are in the STL folder.
 
 The XiiSBar PCB files are available in the PCB folder. All the components are listed in the "BOM.pdf" file 😉
@@ -40,9 +40,8 @@ Now, take this piece and place it like this. You'll be able to close the case.
 <img src="images/Assembly11.png" width= "780" />
 Take two M1.7x6 screws and screw the case.
 
-<img src="images/Assembly12.png" width= "780" />
-<img src="images/Assembly13.png" width= "780" />
-<img src="images/Assembly14.png" width= "780" />
+<img src="images/Assembly12.png" width= "780" /><img src="images/Assembly13.png" width= "780" /><img src="images/Assembly14.png" width= "780" />
+
 Finally, take the trap and the clip. Put both together. You might need some super glue.
 
 <img src="images/Assembly15.png" width= "780" />
