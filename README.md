@@ -34,6 +34,8 @@ After that, you'll need to screew the board in place. Use the M1.7x4 ones.
 
 Place this piece as shown and then fold it. Do the same thing for the other black piece.
 
+⚠ If you deceided to solder the optional LED2, you have to use the "Right + LED" piece. ⚠
+
 <img src="images/Assembly9.png" width= "780" />
 <img src="images/Assembly10.png" width= "780" />
 
