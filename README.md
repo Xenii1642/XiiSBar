@@ -1,8 +1,8 @@
 <picture> <source media="(prefers-color-scheme: dark)" srcset="images/XiiSBar_logo.png"> <img src="images/XiiSBar_logo_dark.png"> </picture> 
 
-The XiiSBar is a small portable Sensor Bar. It is usefull to fully use the WiiMote on your portable Wii. 
+The XiiSBar is a small portable Sensor Bar. It is useful to fully use the WiiMote on your portable Wii. 
 
-Its small form factor means that you can fix it under a Xii-Boy Pocket stand !
+Its small form factor means that you can put it under a Xii-Boy Pocket stand !
 
 Check this Bitbuilt Thread for further informations: Not yet, will be here soon 😉
 
