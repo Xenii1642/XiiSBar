@@ -11,7 +11,6 @@ Check this Bitbuilt Thread for further informations: Not yet, will be here soon 
 <img src="images/XiiSBar1.png" width="390"/> <img src="images/XiiSBar2.png" width="384"/>
 ## PCB
 First, you'll need to order the XiiSBar PCB through [JLCPCB](https://jlcpcb.com/), [PCBWay](https://www.pcbway.com/), [Next PCB](https://www.nextpcb.com/) or  the manufacturer you prefer. 
-<img src="images/PCB1.png" width="780" />
 I personally order mine through [JLCPCB](https://jlcpcb.com/) because it's the cheapest. 
 
 Generally, PCBWay offers a better PCB quality. However, the XiiSBar PCB is very simple, and doesn't require the best quality.
