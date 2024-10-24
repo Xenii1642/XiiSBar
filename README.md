@@ -10,19 +10,19 @@ Check this Bitbuilt Thread for further informations: Not yet, will be here soon 
 
 <img src="images/XiiSBar1.png" width="390"/> <img src="images/XiiSBar2.png" width="384"/>
 ## PCB
-First, you'll need to order the XiiSBar PCB through [JLCPCB](https://jlcpcb.com/), [PCBWay](https://www.pcbway.com/), [Next PCB](https://www.nextpcb.com/) or  the manufacter you prefer. 
-
-I personnaly order mine through [JLCPCB](https://jlcpcb.com/) because it's the cheapest. 
+First, you'll need to order the XiiSBar PCB through [JLCPCB](https://jlcpcb.com/), [PCBWay](https://www.pcbway.com/), [Next PCB](https://www.nextpcb.com/) or  the manufacturer you prefer. 
+<img src="images/PCB1.png" width="780" />
+I personally order mine through [JLCPCB](https://jlcpcb.com/) because it's the cheapest. 
 
 Generally, PCBWay offers a better PCB quality. However, the XiiSBar PCB is very simple, and doesn't require the best quality.
 #
-Once you've chosen you're manufacter, upload it the [XiiSBar PCB Geber file](https://github.com/Xenii1642/XiiSBar/tree/main/PCB%20Files/Gerber). 
+Once you've chosen you're manufacturer, upload the [XiiSBar PCB Geber file](https://github.com/Xenii1642/XiiSBar/tree/main/PCB%20Files/Gerber). 
 
 Let the settings by default. Only change the color if you want. Once your order is done, you'll have to order the components for the PCB.
 
-All the components are listed in the [BOM file](https://github.com/Xenii1642/XiiSBar/blob/main/BOM.pdf). I personnaly ordered them through [Digikey](https://www.digikey.com/en/products).
+All the components are listed in the [BOM file](https://github.com/Xenii1642/XiiSBar/blob/main/BOM.pdf). I personally ordered them through [Digikey](https://www.digikey.com/en/products).
 #
-Once you have the PCB and the components, you'll have to assemble it. Each components on the [BOM file](https://github.com/Xenii1642/XiiSBar/blob/main/BOM.pdf) correspond to each labels on the PCB.
+Once you have the PCB and the components, you'll have to assemble it. Each component on the [BOM file](https://github.com/Xenii1642/XiiSBar/blob/main/BOM.pdf) correspond to each label on the PCB.
 I used a solder iron set to 360℃ (680℉) with Lead-Free solder. Once the assembly is done, your PCB should look like this:
 
 <img src="images/PCB1.png" width="780" />
