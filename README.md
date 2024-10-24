@@ -19,7 +19,7 @@ The XiiSBar PCB files are available in the PCB folder. All the components are li
 #
 First, put the switch slider in the switch hole of the case. Then, rotate the board in place.
 
-⚠ This last part could be a bit tricky to do considering the small tolerances ⚠
+⚠ This last part could be a bit tricky considering the small tolerances ⚠
 
 <img src="images/Assembly1.png" width= "390" /><img src="images/Assembly2.png" width= "368" />
 <img src="images/Assembly3.png" width= "390" /><img src="images/Assembly4.png" width= "390" />
