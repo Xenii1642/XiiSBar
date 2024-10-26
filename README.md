@@ -4,7 +4,7 @@ The XiiSBar is a small portable Sensor Bar. It is useful to fully use the WiiMot
 
 Its small form factor means that you can put it under a Xii-Boy Pocket stand !
 
-Check this Bitbuilt Thread for further informations: Not yet, will be here soon 😉
+Check this Bitbuilt Thread for further informations: [XiiSBar's Bitbuilt Thread](https://bitbuilt.net/forums/index.php?threads/the-xiisbar.6623/)
 
 <img src="images/XiiSBar.png" width="780" />
 
